@@ -1,0 +1,21 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+}
+.card{
+    width: 400px;
+    background-color: aliceblue;
+    padding: 24px;
+    border: 1px solid;
+    box-sizing: border-box;
+    margin: 40px;
+
+
+}
+.profile{
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+
+}
